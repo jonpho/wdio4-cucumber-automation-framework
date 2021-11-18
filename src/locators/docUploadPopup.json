@@ -1,0 +1,12 @@
+{
+    "url": { "URL": "/ips/servlet/FrontController" },
+    "hrefs": {},
+    "buttons": {
+      "CLOSE_BUTTON": "span[class='close']"
+    },
+    "dropdowns": {},
+    "inputs": {},
+    "radio_buttons": {},
+    "checkboxes": {},
+    "special": {}
+  }

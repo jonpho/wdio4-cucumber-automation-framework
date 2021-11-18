@@ -1,0 +1,11 @@
+{
+    "url": { "URL": "/ips/servlet/FrontController?uniqueId=5A257A50F6E61C4AEBF6CB810DF3FFFF&uniqueCounter=1539600933440" },
+    "hrefs": {
+      "SCHEDULED_INSTALLMENTS_LINK": "/html/body/table[1]/tbody/tr[2]/td/table/tbody/tr[2]/td/table[3]/tbody/tr[5]/td[2]/a"
+    },
+    "buttons": {
+        "SUBMIT_BUTTON": "input[value='Submit']",
+        "CANCEL_ENDORSEMENT": "input[value='Cancel Endorsement']",
+        "RELEASE_BUTTON": "input[value='Release'"
+    }   
+ }

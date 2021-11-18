@@ -1,0 +1,18 @@
+{
+    "url": { "URL": "/ips/servlet/FrontController?uniqueId=38DEE69A620E5EECF08C0FC31E59B574&uniqueCounter=1538468726865" },
+        
+    "title" : {"TITLE": "Driver Summary"},
+    "buttons": {
+      "DRIVER_ONE_EDIT_BUTTON": "input[name='edit0']",
+      "DRIVER_TWO_EDIT_BUTTON": "input[name='edit1']",
+      "DRIVER_THREE_EDIT_BUTTON": "input[name='edit2']",
+      "DRIVER_FOUR_EDIT_BUTTON": "input[name='edit3']",
+      "DRIVER_TWO_DELETE_BUTTON": "/html/body/table/tbody/tr[2]/td/table[1]/tbody/tr[2]/td/table[2]/tbody/tr[2]/td[12]/input",
+      "DRIVER_THREE_DELETE_BUTTON": "/html/body/table/tbody/tr[2]/td/table[1]/tbody/tr[2]/td/table[2]/tbody/tr[3]/td[12]/input",
+      "DRIVER_FOUR_DELETE_BUTTON": "/html/body/table/tbody/tr[2]/td/table[1]/tbody/tr[2]/td/table[2]/tbody/tr[4]/td[12]/input",
+      "ADD_DRIVER_BUTTON": "input[id='addDrv']",
+      "RATE_BUTTON": "input[value='Rate']",
+      "CANCEL_ENDORSEMENT_BUTTON": "input[id='Reject']",
+      "VIOLATION_INFORMATION_BUTTON": "a[href='#violationInfo']"
+        }  
+            }

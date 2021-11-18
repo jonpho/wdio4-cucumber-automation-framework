@@ -1,0 +1,17 @@
+{
+  "url": { "URL": "/ips/servlet/FrontController" },
+  "buttons": {},
+  "dropdowns": {},
+  "inputs": {},
+  "radio_buttons": {},
+  "special": {
+    "ACTIVITY_ONE": "div[id='activity0']",
+    "TYPE_ONE": "div[id='paymentType0']",
+    "ENTRY_DATE_ONE": "div[id='postDate0']",
+    "RECEIVED_DATE_ONE": "div[id='receivedDate0']",
+    "CASH_RECEIVED_ONE": "div[id='receipt0']",
+    "BALANCE_FORWARD_ONE": "div[id='currentBalance0']",
+    "VERSION_ONE": "div[id='versionNumber0']",
+    "PROCESSOR_ONE": "div[id=''userID0']"
+  }
+}

@@ -1,0 +1,15 @@
+{
+    "url": { "URL": "/ips/servlet/FrontController" },
+    "title" : {"TITLE": "Driver"},
+    "hrefs": {},
+    "buttons": {
+        "RATE_BUTTON": "/descendant::input[@name='Rate'][1]"
+    },
+    "dropdowns": {
+        "USE_INDICATOR_DROPDOWN": "//*[@id='useIndicator']"
+    },
+    "inputs": {},
+    "radio_buttons": {},
+    "checkboxes": {},
+    "special": {}
+  }

@@ -1,0 +1,13 @@
+{
+    "url": { "URL": "/ips/servlet/FrontController?" },        
+    "title" : {"TITLE": "Driver Summary"},
+    "hrefs": {},   
+    "buttons": {
+        "BASE_DRIVER_BUTTON": "/html/body/table/tbody/tr[2]/td/table[1]/tbody/tr[2]/td/table[2]/tbody/tr["
+        },
+    "dropdowns": {},
+    "inputs": {},
+    "radio_buttons": {},
+    "checkboxes": {},
+    "special": {}
+    }

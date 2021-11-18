@@ -1,0 +1,16 @@
+{
+    "url": { "URL": "tpolicyutilsapp.ipacc.com:15480/batch-zfs-comparator/transfer.jsp" },
+    "buttons": {
+        "SUBMIT_BUTTON": "//input[@id='submit']"
+    },
+    "dropdowns": {},
+    "inputs": {
+        "POLICY_NUMBER_INPUT": "//textarea[@id='polId']",
+        "STATUS_INPUT": "//textarea[@id='transferAction_status']"
+    },
+    "radio_buttons": {
+        "SOURCE_PROD_RADIO_BUTTON": "//label[contains(text(),'PROD')]",
+        "DESTINATION_TEST_RADIO_BUTTON": "//*[@id='rT-2']/label"
+    },
+    "special": {}
+  }

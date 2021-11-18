@@ -1,0 +1,33 @@
+{
+    "url": { "URL": "tupay.ipacc.com/make_payment" },
+    "title" : {"TITLE": "Infinity Payments - Make Payment"},
+    "buttons": {
+      "CANCEL_BUTTON": "button[id='WindowClose']",
+      "NEXT_BUTTON": "input[id='ipsNext']",
+      "BACK_BUTTON": "a[class='close-reveal-modal button small grey']",
+      "AGREE_AND_SUBMIT_BUTTON": "button[id='agreeSubmit']"
+    },
+    "dropdowns": {},
+    "inputs": {
+      "PAYMENT_AMOUNT_INPUT": "input[id='paymentAmount']",
+      "POSTMART_DATE": "input[id='postmarkDate']",
+      "CARD_NUMBER_INPUT": "input[id='creditCardCardNumber']",
+      "EXPIRATION_MONTH_INPUT": "input[id='cardExpirationMonth']",
+      "EXPIRATION_YEAR_INPUT": "input[id='cardExpirationYear']",
+      "ROUTING_NUMBER_INPUT": "input[id='bankRoutingNumber']",
+      "BANK_ACCOUNT_NUMBER_INPUT": "input[id='bankAccountNumber']",
+      "BANK_ACCOUNT_NUMBER_CONFIRMATION_INPUT": "input[id='bankAccountNumber2']",
+      "CHECK_NUMBER_INPUT": "input[id='bankCheckNumber']",
+      "NAME_ON_ACCOUNT_INPUT": "input[id='accountHolderName']"
+    },
+    "radio_buttons": {
+      "NEW_POLICY_DOWN_PAYMENT_BUTTON" : "label[for='PAYREASONCODE_001']",
+      "OTHER_AMOUNT_BUTTON": "label[for='paymentAmountSelectAmtSelect']",
+      "CREDIT_CARD_BUTTON": "label[for='paymentMethodCreditCard']",
+      "NEW_CARD_BUTTON": "label[for='newCreditCard']",
+      "BANK_ACCOUNT_BUTTON": "label[for='paymentMethodBankAccount']"
+    },
+    "special": {
+      "TERMS_AND_CONDITIOINS_POPUP": "div[id='termsConditionsModal']"
+    }
+  }

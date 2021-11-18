@@ -1,0 +1,23 @@
+{
+    "url": { "URL": "/ips/servlet/FrontController" },
+    "title" : {"TITLE": "ID Card"},
+    "buttons": {
+        "PREVIEW_BUTTON": "//*[@id='mainTable']/tbody/tr[10]/td[2]/input[1]",
+        "FAX_BUTTON": "//*[@id='mainTable']/tbody/tr[10]/td[2]/input[2]",
+        "EMAIL_BUTTON": "//*[@id='[mainTable']/tbody/tr[10]/td[2]/input[2]",
+        "MAIL_BUTTON": "//*[@id='mainTable']/tbody/tr[13]/td[2]/input"
+    },
+    "dropdowns": {},
+    "inputs": {
+        "Attention_INPUT": "//*[@id='mainTable']/tbody/tr[2]/td[4]/input",
+        "FAX_NUMBER_INPUT": "//*[@id='mainTable']/tbody/tr[3]/td[4]/input",
+        "MAIL_TO_ONE_INPUT": "//*[@id='mainTable']/tbody/tr[4]/td[4]/input",
+        "MAIL_TO_TWO_INPUT": "//*[@id='mainTable']/tbody/tr[4]/td[4]/input",
+        "INSURED_EMAIL_INPUT": "//*[@id='mainTable']/tbody/tr[6]/td[2]/input"
+
+    },
+    "radio_buttons": {},
+    "checkboxes": {
+        "VEHICLE_CHECKBOX": "input[id='chkVehicleNumber']"
+    }
+}

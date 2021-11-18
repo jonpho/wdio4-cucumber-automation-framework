@@ -1,0 +1,15 @@
+{
+    "url": { "URL": "/ips/servlet/FrontController" },
+    "title" : {"TITLE": "Installment"},
+    "buttons": {
+      "RECALCULATE_BUTTON": "input[value='Recalculate']",
+      "PREVIOUS_BUTTON": "input[id='previous']",
+      "NEXT_BUTTON": "input[id='next']"
+    },
+    "dropdowns": {
+        "QUOTE_BACK_BILLING_DROPDOWN": "/html/body/table[1]/tbody/tr[2]/td/table/tbody/tr[2]/td/table[1]/tbody/tr[9]/td[2]/select"
+    },
+    "inputs": {},
+    "radio_buttons": {},
+    "special": {}
+}

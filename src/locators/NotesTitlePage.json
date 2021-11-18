@@ -1,0 +1,82 @@
+{
+  "URL": {"URL": "/ips/servlet/FrontController"},
+  "title": {"TITLE": "Notes"},
+  "hrefs": {
+    "DATE_TIME_LINK": "/html/body/table/tbody/tr[2]/td/table/tbody/tr[2]/td/table/tbody/tr[1]/td/table[6]/tbody/tr/td[2]/a",
+    "PROCESSOR_LINK": "/html/body/table/tbody/tr[2]/td/table/tbody/tr[2]/td/table/tbody/tr[1]/td/table[6]/tbody/tr/td[3]/a",
+    "SOURCE_LINK": "/html/body/table/tbody/tr[2]/td/table/tbody/tr[2]/td/table/tbody/tr[1]/td/table[6]/tbody/tr/td[4]/a",
+    "VER_LINK": "/html/body/table/tbody/tr[2]/td/table/tbody/tr[2]/td/table/tbody/tr[1]/td/table[6]/tbody/tr/td[5]/a"
+  },
+  "buttons": {
+    "RESET_BUTTON": "input[value='Reset']",
+    "SUBMIT_BUTTON": "/html/body/table/tbody/tr[2]/td/table/tbody/tr[2]/td/table/tbody/tr[1]/td/table[4]/tbody/tr/td[2]/input",
+    "VIEW_BUTTON": "/html/body/table/tbody/tr[2]/td/table/tbody/tr[2]/td/table/tbody/tr[1]/td/table[5]/tbody/tr[2]/td[6]/input"
+  },
+  "dropdowns": {
+    "START_NOTES_HERE_DROPDOWN": "input[id='sourcecodeid']",
+    "PREDEDFINE_EMAIL_DROPDOWN": "input[id='emailselectid']",
+    "FROM_VERSION_LEFT_DROPDOWN": "/html/body/table/tbody/tr[2]/td/table/tbody/tr[2]/td/table/tbody/tr[1]/td/table[5]/tbody/tr[2]/td[6]/select[1]",
+    "FROM_VERSION_RIGHT_DROPDOWN": "/html/body/table/tbody/tr[2]/td/table/tbody/tr[2]/td/table/tbody/tr[1]/td/table[5]/tbody/tr[2]/td[6]/select[2]"
+
+  },
+  "inputs": {
+    "OTHER_EMAIL_INPUT": "input[id='emailtext']",
+    "FREEFORM_NOTES_INPUT": "input[id='notesuser']"
+  },
+  "radio_buttons": {
+    "SHOW_ALL_BUTTON": "/html/body/table/tbody/tr[2]/td/table/tbody/tr[2]/td/table/tbody/tr[1]/td/table[5]/tbody/tr[2]/td[2]/input",
+    "CHANGES_ONLY_BUTTON": "/html/body/table/tbody/tr[2]/td/table/tbody/tr[2]/td/table/tbody/tr[1]/td/table[5]/tbody/tr[2]/td[3]/input",
+    "RED_FLAG_ONLY_BUTTON": "/html/body/table/tbody/tr[2]/td/table/tbody/tr[2]/td/table/tbody/tr[1]/td/table[5]/tbody/tr[2]/td[4]/input",
+    "NO_DELETED_NOTES_BUTTON": "input[id='deleted']"
+  },
+  "checkboxes": {
+    "ORIGINAL_RED_FLAG_CHECKBOX": "/html/body/table/tbody/tr[2]/td/table/tbody/tr[2]/td/table/tbody/tr[1]/td/table[4]/tbody/tr/td[1]/input",
+    "RED_FLAG_ONE_CHECKBOX": "input[id='redFlag0']",
+    "RED_FLAG_TWO_CHECKBOX": "input[id='redFlag1']",
+    "RED_FLAG_THREE_CHECKBOX": "input[id='redFlag2']",
+    "RED_FLAG_FOUR_CHECKBOX": "input[id='redFlag3']",
+    "RED_FLAG_FIVE_CHECKBOX": "input[id='redFlag4']",
+    "RED_FLAG_SIX_CHECKBOX": "input[id='redFlag5']",
+    "RED_FLAG_SEVEN_CHECKBOX": "input[id='redFlag6']",
+    "RED_FLAG_EIGHT_CHECKBOX": "input[id='redFlag7']",
+    "RED_FLAG_NINE_CHECKBOX": "input[id='redFlag8']",
+    "RED_FLAG_TEN_CHECKBOX": "input[id='redFlag9']",
+    "RED_FLAG_ELEVEN_CHECKBOX": "input[id='redFlag10']",
+    "RED_FLAG_TWELVE_CHECKBOX": "input[id='redFlag11']",
+    "RED_FLAG_THIRTEEN_CHECKBOX": "input[id='redFlag12']",
+    "RED_FLAG_FOURTEEN_CHECKBOX": "input[id='redFlag13']",
+    "RED_FLAG_FIFTEEN_CHECKBOX": "input[id='redFlag14']",
+    "RED_FLAG_SIXTEEN_CHECKBOX": "input[id='redFlag15']"
+  },
+  "special": {
+    "DATE_TIME_ONE": "div[id='entryDate/Time0']",
+    "PROCESSOR_ONE": "div[id='processor0']",
+    "SOURCE_ONE": "/html/body/table/tbody/tr[2]/td/table/tbody/tr[2]/td/table/tbody/tr[1]/td/div/table/tbody/tr[1]//*[@id='source']",
+    "VERSION_ONE": "/html/body/table/tbody/tr[2]/td/table/tbody/tr[2]/td/table/tbody/tr[1]/td/div/table/tbody/tr[1]//*[@id='policyVersion']",
+    "CHG_NUM_ONE": "div[id='changeNumber0']",
+    "CHG_EFF_DATE_ONE" : "div[id='effectiveDate0']",
+    "NOTES_ONE": "div[id='notescontent0']",
+    "DATE_TIME_TWO": "div[id='entryDate/Time1']",
+    "PROCESSOR_TWO": "div[id='processor1']",
+    "SOURCE_TWO": "/html/body/table/tbody/tr[2]/td/table/tbody/tr[2]/td/table/tbody/tr[1]/td/div/table/tbody/tr[2]//*[@id='source']",
+    "VERSION_TWO": "/html/body/table/tbody/tr[2]/td/table/tbody/tr[2]/td/table/tbody/tr[1]/td/div/table/tbody/tr[2]//*[@id='policyVersion']",
+    "CHG_NUM_TWO": "div[id='changeNumber1']",
+    "CHG_EFF_DATE_TWO" : "div[id='effectiveDate1']",
+    "NOTES_TWO": "div[id='notescontent1']",
+    "DATE_TIME_THREE": "div[id='entryDate/Time2']",
+    "PROCESSOR_THREE": "div[id='processor2']",
+    "SOURCE_THREE": "/html/body/table/tbody/tr[2]/td/table/tbody/tr[2]/td/table/tbody/tr[1]/td/div/table/tbody/tr[3]//*[@id='source']",
+    "VERSION_THREE": "/html/body/table/tbody/tr[2]/td/table/tbody/tr[2]/td/table/tbody/tr[1]/td/div/table/tbody/tr[3]//*[@id='policyVersion']",
+    "CHG_NUM_THREE": "div[id='changeNumber2']",
+    "CHG_EFF_DATE_THREE" : "div[id='effectiveDate2']",
+    "NOTES_THREE": "div[id='notescontent2']",
+    "DATE_TIME_FOUR": "div[id='entryDate/Time3']",
+    "PROCESSOR_FOUR": "div[id='processor3']",
+    "SOURCE_FOUR": "/html/body/table/tbody/tr[2]/td/table/tbody/tr[2]/td/table/tbody/tr[1]/td/div/table/tbody/tr[4]//*[@id='source']",
+    "VERSION_FOUR": "/html/body/table/tbody/tr[2]/td/table/tbody/tr[2]/td/table/tbody/tr[1]/td/div/table/tbody/tr[4]//*[@id='policyVersion']",
+    "CHG_NUM_FOUR": "div[id='changeNumber3']",
+    "CHG_EFF_DATE_FOUR" : "div[id='effectiveDate3']",
+    "NOTES_FOUR": "div[id='notescontent3']"
+  }
+
+}

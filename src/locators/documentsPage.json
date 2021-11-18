@@ -1,0 +1,28 @@
+{
+  "url": { "URL": "/ips/servlet/FrontController" },
+  "title" : {"TITLE": "Documents"},
+  "hrefs": {
+    "VIEW_LINK": "/html/body/table/tbody/tr[2]/td/table/tbody/tr/td[2]/table/tbody/tr[3]/td/div/table/tbody/tr[1]/td[6]/a",
+    "EMAIL_LINK": "/html/body/table/tbody/tr[2]/td/table/tbody/tr/td[2]/table/tbody/tr[3]/td/div/table/tbody/tr[1]/td[7]/a",
+    "FAX_LINK": "/html/body/table/tbody/tr[2]/td/table/tbody/tr/td[2]/table/tbody/tr[3]/td/div/table/tbody/tr[1]/td[8]/a",
+    "MAIL_LINK": "/html/body/table/tbody/tr[2]/td/table/tbody/tr/td[2]/table/tbody/tr[3]/td/div/table/tbody/tr[1]/td[9]/a"
+  },
+  "buttons": {
+    "VIEW_BUTTON": "input[id='viewVersions']",
+    "EMAIL_BUTTON": "input[id='emailVersions']",
+    "CLEAR_ALL_BUTTON": "input[value='Clear All']",
+    "FORM_NAME_BUTTON": "/html/body/table/tbody/tr[2]/td/table/tbody/tr/td[2]/table/tbody/tr[3]/td/table/tbody/tr/td[2]/a"
+  },
+  "dropdowns": {
+    "SELECT_VERSION_DROPDOWN": "/html/body/table/tbody/tr[2]/td/table/tbody/tr/td[2]/table/tbody/tr[3]/td/table/tbody/tr/td[6]/select"
+  },
+  "inputs": {},
+  "radio_buttons": {},
+  "checkboxes": {
+    "CHECKBOX_ONE": "input[id='printFlag0v1']",
+    "CHECKBOX_TWO": "input[id='printFlag1v']",
+    "CHECKBOX_THREE": "input[id='printFlag2v']",
+    "CHECKBOX_FOUR": "input[id='printFlag3v']"
+  },
+  "special": {}
+}

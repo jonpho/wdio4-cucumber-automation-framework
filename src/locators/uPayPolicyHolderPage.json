@@ -1,0 +1,14 @@
+{
+  "url": { "URL": "tupay.ipacc.com/make_payment/policy_holder" },
+  "title" : {"TITLE": "Infinity Payments - Policy Holder"},
+  "buttons": {
+    "YES_BUTTON": "button[value='Y']",
+    "NO_BUTTON": "button[value='N']"
+  },
+  "dropdowns": {},
+  "inputs": {},
+  "radio_buttons": {},
+  "special": {
+    "POLICY_HOLDER_STATMENT": "/html/body/div[5]/div/div[3]/div/div/div/div[1]/div/p"
+  }
+}

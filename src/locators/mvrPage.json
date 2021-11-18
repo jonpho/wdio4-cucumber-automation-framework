@@ -1,0 +1,22 @@
+{
+    "url": { "URL": "/ips/servlet/FrontController" },
+    "title" : {"TITLE": "MVR"},
+    "buttons": {
+      "ORDER_MVR_BUTTON": "input[id='submitMvr']",
+      "REPORTED_DATE_BUTTON": "/html/body/table[1]/tbody/tr[2]/td/table/tbody/tr[2]/td/table/tbody/tr[9]/td[6]/a"
+    },
+    "dropdowns": {
+      "DRIVER_SELECTION_DROPDOWN": "//*[@id='driverSelections']",
+      "GENDER_DROPDOWN": "//*[@id='Sex']",
+      "LICNESE_STATE_DROPDOWN": "/html/body/table[1]/tbody/tr[2]/td/table/tbody/tr[2]/td/table/tbody/tr[9]/td[6]/a"
+    },
+    "inputs": {
+        "FIRST_NAME_INPUT": "input[id='fname']",
+        "MIDDLE_NAME_INPUT": "input[id='mname']",
+        "LAST_NAME_INPUT": "input[id='lname']",
+        "DATE_BIRTH_INPUT": "input[id='dob']",
+        "LICENSE_NUMBER_INPUT": "input[id='licenseNum']"
+    },
+    "radio_buttons": {},
+    "special": {}
+}

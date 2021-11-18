@@ -1,0 +1,52 @@
+{
+  "url": { "URL": "/ips/servlet/FrontController" },
+  "buttons": {
+    "SUBMIT_BUTTON": "//input[@id='submitButton']",
+    "RESET_BUTTON": "//input[value='Reset']",
+    "VIN_SEARCH_BUTTON": "//a[@id='vinSearchBar']",
+    "FORMS_BUTTON": "//a[@id='formsMenuBar']",
+    "AGENCY_BUTTON": "//a[@id='agencyMenuBar']"
+  },
+  "dropdowns": {
+    "POLICY_STATE_DROPDOWN": "//*[@id='policyStateCode']",
+    "DATA_TYPE_DROPDOWN": "//*[@id='dateTypeSelect']",
+    "STATUS_DROPDOWN": "//*[@id='status']",
+    "VERSION_DROPDOWN": "//*[@id='version']",
+    "STATE_DROPDOWN": "//select[@id='stateCode']"
+  },
+  "checkboxes": {
+    "INCLUDE_POLICIES_CHECKBOX": "input[id='searchAllChk']",
+    "PRE_RELEASE_VERSION_CHECKBOX": "input[id='preReleaseFlag']"
+  },
+  "inputs": {
+    "POLICY_NUMBER_INPUT": "input[id='policyNumber']",
+    "ACTIVITY_DATE_INPUT": "input[id='activityDate']",
+    "INSURED_NAME_INPUT": "input[id='insuredName']",
+    "DRIVERS_LICENSE_NUMBER_INPUT": "input[id='driversLicenseNumber']",
+    "VEHICLE_ID_NUMBER_INPUT": "input[id='VIN']",
+    "PHONE_NUMBER_INPUT": "input[id='phoneNumber']",
+    "AGENT_NUMBER_INPUT": "input[id='agentNumber']",
+    "AGENT_CODE_INPUT": "input[id='agentCode']",
+    "COMPANY_INPUT": "input[id='Company']",
+    "ZIP_CODE_INPUT": "input[id='zipCode']",
+    "POLICY_DATE_FROM_INPUT": "input[id='fromDate']",
+    "POLICY_DATE_TO_INPUT": "input[id='toDate']"
+    },
+  "radio_buttons": {
+    "POLICY_SEARCH_BUTTON": "input[value='policy']",
+    "NAME_SEARCH_BUTTON": "input[value='name']",
+    "SEARH_POLICY_STATE_BUTTON": "input[value='policyState']",
+    "DRIVER_LICENSE_NUMBER_BUTTON": "input[id='searchSubSelection1']",
+    "VEHICLE_ID_NUMBER_BUTTON": "input[id='searchSubSelection2']",
+    "PHONE_NUMBER_BUTTON": "input[id='searchSubSelection3']",
+    "AGENT_NUMBER_BUTTON": "input[id='searchSubSelection4']",
+    "LINK_OLE_BUTTON": "input[value='OLESelection']",
+    "OLE_BUTTON": "input[id='oleSubSelection1']",
+    "AGENCY_TWO_BUTTON": "input[id='oleSubSelection2']",
+    "PPA_BUTTON": "input[id='pssPolicyType1']",
+    "CV_BUTTON": "input[id='pssPolicyType2']",
+    "CC_BUTTON": "input[id='pssPolicyType3']",
+    "AR_BUTTON": "input[id='pssPolicyType4']"
+  },
+  "special": {}
+}

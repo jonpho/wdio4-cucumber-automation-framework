@@ -1,0 +1,37 @@
+{
+    "url": { "URL": "/ips/servlet/FrontController?uniqueId=6C3F4D149D95A3AAB05C58604558E317&uniqueCounter=1542672411005" },
+        
+    "title" : {"TITLE": "Driver Endorsement Edit Summary"},
+    "buttons": {
+      "DRIVER_LIST_TOP_BUTTON": "/html/body/table[1]/tbody/tr[2]/td/table/tbody/tr[2]/td/table[1]/tbody/tr/td[1]/input",
+      "DRIVER_LIST_BOTTOM_BUTTON": "/html/body/table[1]/tbody/tr[2]/td/table/tbody/tr[2]/td/table[2]/tbody/tr/td[1]/input",
+      "RATE_TOP_BUTTON":"/html/body/table[1]/tbody/tr[2]/td/table/tbody/tr[2]/td/table[1]/tbody/tr/td[2]/input",
+      "RATE_BOTTOM_BUTTON":"/html/body/table[1]/tbody/tr[2]/td/table/tbody/tr[2]/td/table[2]/tbody/tr/td[2]/input",
+      "RESET_TOP_BUTTON": "/html/body/table[1]/tbody/tr[2]/td/table/tbody/tr[2]/td/table[1]/tbody/tr/td[3]/input[1]",
+      "RESET_BOTTOM_BUTTON": "/html/body/table[1]/tbody/tr[2]/td/table/tbody/tr[2]/td/table[2]/tbody/tr/td[3]/input[1]",
+      "CANCEL_ENDORSEMENT_TOP_BUTTON": "/html/body/table[1]/tbody/tr[2]/td/table/tbody/tr[2]/td/table[1]/tbody/tr/td[3]/input[2]",
+      "CANCEL_ENDORSEMENT_BOTTOM_BUTTON": "/html/body/table[1]/tbody/tr[2]/td/table/tbody/tr[2]/td/table[2]/tbody/tr/td[3]/input[2]",
+      "DRIVER_INFORMATION_TAB": "a[href='#driverInfomation']",
+      "VIOLATION_INFORMATION_TAB": "a[href='#violationInfo']",
+      "DRIVER_TIER_CRITERIA_TAB": "a[href='#driverTier']",
+      "VI_DRIVER_LIST_TOP_BUTTON": "/html/body/table[1]/tbody/tr[2]/td/table/tbody/tr[2]/td/table[1]/tbody/tr/td[1]/input",
+      "VI_DRIVER_LIST_BOTTOM_BUTTON": "/html/body/table[1]/tbody/tr[2]/td/table/tbody/tr[2]/td/table[2]/tbody/tr/td[1]/input",
+      "VI_RESET_TOP_BUTTON": "/html/body/table[1]/tbody/tr[2]/td/table/tbody/tr[2]/td/table[1]/tbody/tr/td[3]/input[1]",
+      "VI_RESET_BOTTOM_BUTTON": "/html/body/table[1]/tbody/tr[2]/td/table/tbody/tr[2]/td/table[2]/tbody/tr/td[3]/input[1]",
+      "VI_RATE_TOP_BUTTON": "/html/body/table[1]/tbody/tr[2]/td/table/tbody/tr[2]/td/table[1]/tbody/tr/td[2]/input",
+      "VI_RATE_BOTTOM_BUTTON": "/html/body/table[1]/tbody/tr[2]/td/table/tbody/tr[2]/td/table[2]/tbody/tr/td[2]/input",
+      "VI_CANCEL_ENDORSEMENT_TOP_BUTTON": "/html/body/table[1]/tbody/tr[2]/td/table/tbody/tr[2]/td/table[1]/tbody/tr/td[3]/input[2]",
+      "VI_CANCEL_ENDORSEMENT_BOTTOM_BUTTON": "/html/body/table[1]/tbody/tr[2]/td/table/tbody/tr[2]/td/table[2]/tbody/tr/td[3]/input[2]",
+      "VI_ADD_BUTTON": "input[value='Add']"
+       },
+    "inputs": {
+        "VI_VIOLATION_DATE_TEXT_FIELD": "input[id='ViolationDate']",
+        "CONVICTION_DATE_TEXT_FIELD": "input[id='ConvictionDate']"
+       },
+    "dropdowns": {
+        "VI_VIOLATION_DROPDOWN": "//*[@id='violationInfo']/div/table/tbody/tr[6]/td/table/tbody/tr[1]/td[1]/select"
+        },
+    "checkboxes": {
+        "VI_CHARGEABLE_FLAG_CHECKBOX": "input[name='AddViolationChargeableFlag']"
+        }
+ }

@@ -1,0 +1,21 @@
+{
+    "url": { "URL": "/ips/servlet/FrontController" },
+    "title" : {"TITLE": "Policy Admin"},
+    "buttons": {
+        "SUBMIT_BUTTON": "//input[@value='Submit']",
+        "CANCEL_BUTTON": "//input[@value='Cancel']"
+    },
+    "dropdowns": {
+        "REBUILD_RENEWAL_VERSION_DROPDOWN": "/html/body/table[1]/tbody/tr[2]/td/table/tbody/tr[2]/td[2]/table[3]/tbody/tr[9]/td[2]/select"
+    },
+    "inputs": {
+        "NOTES_INPUT": "textarea[id='notes']"
+    },
+    "radio_buttons": {
+        "DELETE_PRE_RELEASE_BUTTON": "input[id='DeletePreReleaseVersion']",
+        "DELETE_RELEASE_RENEWAL_BUTTON": "input[id='DeletePreReleaseAndRebuildRenewal']",
+        "REBUILD_RENEWAL_BUTTON": "input[id='RebuildRenewal']",
+        "REBUILD_PAYPLAN_BUTTON": "input[id='RebuildPayPlan']"
+    },
+    "special": {}
+}

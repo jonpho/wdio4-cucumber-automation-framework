@@ -1,0 +1,14 @@
+{
+    "url": { "URL": "/ips/servlet/FrontController?operation=nsfpayment&session=0" },
+    "title" : {"TITLE": "NSF Payment"},
+    "hrefs": {},
+    "buttons": {
+      "SUBMIT_BUTTON": "input[value='Submit']",
+      "CANCEL_BUTTON": "input[value='Cancel']"
+    },
+    "dropdowns": {},
+    "inputs": {},
+    "radio_buttons": {},
+    "checkboxes": {},
+    "special": {}
+  }

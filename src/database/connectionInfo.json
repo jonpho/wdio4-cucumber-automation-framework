@@ -1,0 +1,14 @@
+{
+  "qa_test_db": {
+    "CONNECTION_STRING": "//xtst-scan.ipacc.com:1521/quotetst.ipacc.com"
+  },
+  "unix_test_1_db": {
+    "CONNECTION_STRING": "//xtst-scan.ipacc.com:1521/tst1"
+  },
+  "unix_test_2_db": {
+    "CONNECTION_STRING": "//xtst-scan.ipacc.com:1521/tst2"
+  },
+  "unix_test_3_db": {
+    "CONNECTION_STRING": "//xtst-scan.ipacc.com:1521/tst3"
+  }
+}

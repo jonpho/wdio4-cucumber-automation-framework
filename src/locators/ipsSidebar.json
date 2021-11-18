@@ -1,0 +1,37 @@
+{
+    "url": { "URL": "/ips/servlet/FrontController" },
+    "buttons": {
+      "IPS_HOME_BUTTON": "a[id='ipshomeredirect']",
+      "REFRESH_BUTTON": "a[id='refreshMenuBar']",
+      "POLICY_ADMIN_BUTTON": "a[id='policyAdminBar']",
+      "VIN_SEARCH_BUTTON": "a[id='vinSearchBar']",
+      "FEE_CHART_BUTTON": "a[id='feeChartBar']",
+      "SUSP_UPDATE_BUTTON": "a[id='suspensionUpdateBar']",
+      "SUSP_LETTER_BUTTON": "a[id='suspensionLetterBar']",
+      "CANCELLATION_BUTTON": "/html/body/table/tbody/tr[2]/td/table[1]/tbody/tr[1]/td[1]/table/tbody/tr/td/table/tbody/tr[33]/td/table/tbody/tr/td[2]",
+      "ENDORSEMENT_BUTTON": "a[id='endorsementBar']",
+      "UNLOCK_BUTTON": "a[id='unlockbar']",
+      "CHGCHECKOUT_BUTTON": "/html/body/table/tbody/tr[2]/td/table[1]/tbody/tr[1]/td[1]/table/tbody/tr/td/table/tbody/tr[42]/td/table/tbody/tr/td[3]",
+      "NSF_BUTTON": "a[id='NSF']",
+      "UPAY_BUTTON": "a[id='uPay']",
+      "UPAY_SPANISH_BUTTON": "a[id='upay_es']",
+      "UNDERWRITING_BUTTON": "/html/body/table/tbody/tr[2]/td/table[1]/tbody/tr[1]/td[1]/table/tbody/tr/td/table/tbody/tr[54]/td/table/tbody/tr/td[3]",
+      "DOC_UPLOAD_BUTTON": "a[id='docUploadBar']",
+      "FORMS_BUTTON": "a[id='formsMenuBar']",
+      "OLE_BUTTON": "a[id='OLEMenuBar']",
+      "PFO_BUTTON": "a[id='pfoMenuBar']",
+      "AGENCY_BUTTON": "a[id='agencyMenuBar']",
+      "SUPPRESS_DOC_BUTTON": "/html/body/table/tbody/tr[2]/td/table[1]/tbody/tr[1]/td[1]/table/tbody/tr/td/table/tbody/tr[75]/td/table/tbody/tr/td[2]/a",
+      "WPS_BUTTON": "a[id='wpsMenuBar']",
+      "CANCELLATION_CLOSE_BUTTON": "a[id='cancelCloseSubMenu']",
+      "UNDERWRITING_CLOSE_BUTTON": "a[id='closeUWSubmenu']"
+    },
+    "dropdowns": {},
+    "inputs": {},
+    "radio_buttons": {},
+    "special": {
+      "DOC_UPLOAD_POPUP": "div[class='modal-content']",
+      "CANCELLATION_SUB_MENU": "div[id='contents4']",
+      "UNDERWRITING_SUB_MENU": "div[id='contents3']"
+    }
+  }

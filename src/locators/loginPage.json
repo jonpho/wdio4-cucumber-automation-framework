@@ -1,0 +1,14 @@
+{
+    "url" :{ "URL": "http://tips.ipacc.com:1300/ips/servlet/FrontController?" },
+    "hrefs" : {},
+    "buttons" : {
+      "LOGIN_BUTTON": "input[name='Login']"
+    },
+    "dropdowns" :{},
+    "inputs" :{
+      "USER_NAME_INPUT": "input[name='userid']",
+      "PASSWORD_INPUT": "input[name='password']"
+    },
+    "radio_buttons":{},
+    "special" :{}
+  }

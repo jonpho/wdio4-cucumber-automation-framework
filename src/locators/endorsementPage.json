@@ -1,0 +1,41 @@
+{
+  "url": { "URL": "/ips/servlet/FrontController" },
+    
+  "title" : {"TITLE": "Endorsement"},
+  "buttons": {
+    "SUBMIT_BUTTON": "input[id='request']",
+    "CANCEL_BUTTON": "input[value='Cancel']",
+    "INCEPTION_BUTTON": "input[value='InceptionDate']"
+  },
+  "dropdowns": {},
+  "inputs": {
+    "PHONE_REQUEST_DATE_INPUT": "input[id='phoneRequestDate']",
+    "PHONE_REQUEST_TIME_INPUT": "input[id='phoneRequestTime']",
+    "PHONE_REQUEST_NAME_INPUT": "input[id='phoneRequestName']",
+    "WRITTEN_REQUEST_DATE_INPUT": "input[id='writtenRequestDate']",
+    "WRITTEN_REQUEST_TIME_INPUT": "input[id='writtenRequestTime']",
+    "CLAIMS_REQUEST_NUMBER_INPUT": "input[id='claimsRequestClaimNumber']",
+    "CLAIMS_REQUEST_DATE_INPUT": "input[id='claimsRequestDate']"
+  },
+  "radio_buttons": {
+    "PRIMARY_BUTTON": "input[value='primary_endorse']",
+    "VEHICLES_BUTTON": "input[value='vehicle_endorse_list']",
+    "DRIVERS_BUTTON": "input[value='driver_endorse_list']",
+    "AUTO_PAY_BUTTON": "input[value='autopay_endorse']",
+    "COMPANY_BUTTON": "input[value='company_endorse']",
+    "PHONE_REQUEST_AGENT_BUTTON": "input[id='phoneRequestByAgent']",
+    "PHONE_REQUEST_INSURED_BUTTON": "input[id='phoneRequestByInsured']",
+    "PHONE_REQUEST_OTHER_BUTTON": "input[id='phoneRequestByOther']",
+    "WRITTEN_REQUEST_AGENT_BUTTON": "input[id='writtenRequestByAgent']",
+    "WRITTEN_REQUEST_INSURED_BUTTON": "input[id='writtenRequestByInsured']",
+    "WRITTEN_REQUEST_OTHER_BUTTON": "input[id='writtenRequestByOther']",
+    "PHONE_REQUEST_BUTTON": "input[id='phoneRequest']",
+    "WRITTEN_REQUEST_BUTTON": "input[id='writtenRequest']",
+    "CLAIMS_REQUEST_BUTTON": "input[id='claimsRequest']",
+    "OFFICE_REQUEST_BUTTON": "input[id='officeRequest']"
+  },
+  "checkboxes": {
+    "VERIFIED_AGENT_CODE_CHECKBOX": "input[id='phoneRequestAgentVerified']",
+    "VERIFIED_ADDRESS_SSN_CHECKBOX": "input[id='phoneRequestAgentVerified']"
+  }
+}

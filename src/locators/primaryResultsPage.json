@@ -1,0 +1,24 @@
+{
+  "url": { "URL": "/ips/servlet/FrontController" },
+  "title" : {"TITLE": "Primary"},
+  "buttons": {
+    "ADD_COMMENT_BUTTON": "input[value='Add Comment']",
+    "SUBMIT_ADD_COMMENT_BUTTON": "input[value='Submit']",
+    "CANCEL_ADD_COMMENT_BUTTON": "input[value='Cancel']",
+    "TEST_AGENCY_BUTTON": "//a[@id='agencyInfo']",
+    "CUSTOMER_PROFILE_BUTTON": "//a[@id='createCustomerProfile']",
+    "PAYMENT_HISTORY_BUTTON": "//a[@id='paymentHistory']",
+    "GARAGING_WORK_ADDRESS_BUTTON": "//a[@id='addressHistoryLink']"
+  },
+  "dropdowns": {},
+  "inputs": {
+      "ADD_COMMENT_TEXTFIELD": "//textarea[@id='commentNotes']"
+  },
+  "radio_buttons": {},
+  "special": {
+    "DOC_UPLOAD_POPUP": "div[class='modal-content']",
+    "CANCELLATION_POPUP": "div[id='contents4']",
+    "POLICY_STATUS": "td[id='policyStatus'",
+    "DOWN_PAYMENT": "//*[@id='quotedDownPayment']"
+  }
+}

@@ -1,0 +1,32 @@
+{
+    "url": { "URL": "/ips/servlet/FrontController" },
+    "buttons": {
+      "ADD_AUTO_PAY_BUTTON": "//*[@id='eftInfo']/div/form[2]/table[2]/tbody/tr/td/input",
+      "AUTO_PAY_BUTTON": "//*[@id='tabs']/li[1]/a",
+      "FEES_ADJUSTMENTS_BUTTON": "//*[@id='tabs']/li[2]/a",
+      "PAYMENTS_REFUND_BUTTON": "//*[@id='tabs']/li[3]/a",
+      "PREMIUM_WRITE_OFF_BUTTON": "//*[@id='tabs']/li[4]/a",
+      "REFUND_BUTTON": "//*[@id='payReversal']/table/tbody/tr[3]/td[12]/input",
+      "AMOUNT_INPUT": "//*[@id='writeOff']/table/tbody/tr[1]/td[4]/input",
+      "ADD_PREMIUM_WRITE_BUTTON": "//*[@id='writeOff']/table/tbody/tr[2]/td[5]/input"
+    },
+    "dropdowns": {
+        "FEE_REVERSAL_DROPDOWN": "//*[@id='feeReverseReasonId']",
+        "WRITE_OFF_REASON_DROPDOWN": "//*[@id='writeoffReasonId']"
+    },
+    "inputs": {
+        "REVERSAL_AMOUNT_INPUT": "input[id='reversalAmt0']"
+    },
+    "radio_buttons": {
+        "EFT_INSTALLMENT_ALL_BUTTON": "//*[@id='eftInfo']/div/form[2]/table[1]/tbody/tr[2]/td[2]/label[1]/input",
+        "EFT_INSTALLMENT_ACTIVE_BUTTON": "//*[@id='eftInfo']/div/form[2]/table[1]/tbody/tr[2]/td[2]/label[2]/input",
+        "EFT_INTSALLMENT_INACTIVE_BUTTON": "//*[@id='eftInfo']/div/form[2]/table[1]/tbody/tr[2]/td[2]/label[3]/input",
+        "EFT_INFORMATION_ALL_BUTTON": "//*[@id='eftInfo']/div/form[2]/table[3]/tbody/tr[2]/td[2]/label[1]/input",
+        "EFT_INFORMATION_ACTIVE_BUTTON": "//*[@id='eftInfo']/div/form[2]/table[3]/tbody/tr[2]/td[2]/label[2]/input",
+        "EFT_INFORMATION_INACTIVE_BUTTON": "//*[@id='eftInfo']/div/form[2]/table[3]/tbody/tr[2]/td[2]/label[3]/input"
+    },
+    "checkboxes": {
+        "REVERSE_FULL_AMOUNT_CHECKBOX": "input[id='reversalAll0']",
+        "TEST_BUTTON": "input[id='testbutton']"
+    }
+}

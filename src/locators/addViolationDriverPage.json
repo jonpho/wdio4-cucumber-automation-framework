@@ -1,0 +1,25 @@
+{
+  "url": {"URL": "/ips/servlet/FrontController"},
+  "title": {"TITLE": "Add Driver Violation"},
+  "buttons": {
+    "DRIVER_LIST_TOP_BUTTON": ",/html/body/table[1]/tbody/tr[2]/td/table/tbody/tr[2]/td/table[1]/tbody/tr/td[1]/input",
+    "DRIVER_LIST_BOTTOM_BUTTON": "/html/body/table[1]/tbody/tr[2]/td/table/tbody/tr[2]/td/table[2]/tbody/tr/td[1]/input",
+    "ADD_BUTTON": "input[value='Add']",
+    "RESET_BOTTOM_BUTTON": "/html/body/table[1]/tbody/tr[2]/td/table/tbody/tr[2]/td/table[2]/tbody/tr/td[3]/input[1]",
+    "RESET_TOP_BUTTON": "/html/body/table[1]/tbody/tr[2]/td/table/tbody/tr[2]/td/table[1]/tbody/tr/td[3]/input[1]",
+    "RATE_BOTTOM_BUTTON": "/html/body/table[1]/tbody/tr[2]/td/table/tbody/tr[2]/td/table[2]/tbody/tr/td[2]/input",
+    "RATE_TOP_BUTTON": "/html/body/table[1]/tbody/tr[2]/td/table/tbody/tr[2]/td/table[1]/tbody/tr/td[2]/input",
+    "CANCEL_ENDORSEMENT_BOTTOM_BUTTON": "/html/body/table[1]/tbody/tr[2]/td/table/tbody/tr[2]/td/table[2]/tbody/tr/td[3]/input[2]",
+    "CANCEL_ENDORSEMENT_TOP_BUTTON": "/html/body/table[1]/tbody/tr[2]/td/table/tbody/tr[2]/td/table[1]/tbody/tr/td[3]/input[2]"
+  },
+  "dropdowns": {
+    "VIOLATION_DROPDOWN": "//*[@id='violationInfo']/div/table/tbody/tr[6]/td/table/tbody/tr[1]/td[1]/select"
+  },
+  "input": {
+    "VIOLATION_DATE_INPUT": "input[value='ViolationDate']",
+    "CONVICTION_DATE_INPUT": "input[value='ConvictionDate']"
+  },
+  "checkboxes": {
+    "CHARGEABLE_FLAG_CHECKBOX": "input[name='AddViolationChargeableFlag']"
+  }
+}

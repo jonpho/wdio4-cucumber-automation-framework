@@ -1,0 +1,13 @@
+{
+    "url": { "URL": "/ips/servlet/FrontController" },
+    "title" : {"TITLE": "Suspense letter"},
+    "hrefs": {},
+    "buttons": {},
+    "dropdowns": {},
+    "inputs": {},
+    "radio_buttons": {},
+    "checkboxes": {},
+    "special": {
+      "DOC_UPLOAD_POPUP": "div[class='modal-content']"
+    }
+  }

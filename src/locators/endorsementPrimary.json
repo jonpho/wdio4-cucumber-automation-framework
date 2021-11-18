@@ -1,0 +1,78 @@
+{
+  "url": { "URL": "/ips/servlet/FrontController" },
+      
+  "title" : {"TITLE": "Endoresment"},
+  "buttons": {
+    "RATE_BUTTON": "/descendant::input[@name='Rate'][1]",
+    "RESET_TOP_BUTTON": "//form[@name='endorseForm']//table[1]//tbody[1]//tr[1]//td[3]//input[1]",
+    "CANCEL_ENDORSEMENT_TOP_BUTTON": "//form[@name='endorseForm']//table[1]//tbody[1]//tr[1]//td[3]//input[2]",
+    "RESET_BOTTOM_BUTTON": "//form[@name='endorseForm']//table[2]//tbody[1]//tr[1]//td[3]//input[1]",
+    "CANCEL_ENDORSEMENT_BOTTOM_BUTTON": "//form[@name='endorseForm']//table[2]//tbody[1]//tr[1]//td[3]//input[2]",
+    "ADD_PREMIUM_FINANCE_BUTTON": "input[id='AddUpdateOperation']"
+  },
+  "dropdowns": {
+    "GARAGING_STATE_DROPDOWN": "//*[@id='garagingState']",
+    "MAILING_STATE_DROPDOWN": "//*[@id='mailState']",
+    "COMPANY_STATE_DROPDOWN": "//*[@id='companyState']",
+    "WORK_STATE_DROPDOWN": "//*[@id='workState']",
+    "STATE_DROPDOWN": "//*[@id='lienState']"
+
+  },
+  "inputs": {
+    "INSURED_NAME_INPUT": "input[name='insuredName']",
+    "FIRST_NAME_INPUT": "input[name='firstName']",
+    "MIDDLE_NAME_INPUT": "input[name='middleInitial']",
+    "LAST_NAME_INPUT": "input[name='lastName']",
+    "NAME_SUFFIX_INPUT": "input[name='nameSuffix']",
+    "PRIOR_LAST_NAME_INPUT": "input[name='insuredName']",
+    "GARAGING_ADDRESS_ONE_INPUT": "input[id='garagingAddr1']",
+    "GARAGING_ADDRESS_TWO_INPUT": "input[id='garagingAddr2']",
+    "GARAGING_ZIP_INPUT": "input[id='garagingZip']",
+    "GARAGING_ZIP_EXT_INPUT": "input[name='garagingZipExt']",
+    "GARAGING_CITY_INPUT": "input[id='garagingCity']",
+    "MAILING_ADDRESS_ONE_INPUT": "input[id='mailAddr1']",
+    "MAILING_ADDRESS_TWO_INPUT": "input[id='mailAddr2']",
+    "MAILING_ZIP_INPUT": "input[id='mailZip']",
+    "MAILING_ZIP_EXT_INPUT": "input[name='mailZipExt']",
+    "MAILING_CITY_INPUT": "input[id='mailCity']",
+    "COMPANY_ADDRESS_ONE_INPUT": "input[name='companyAddr1']",
+    "COMPANY_ADDRESS_TWO_INPUT": "input[id='companyAddr2']",
+    "COMPANY_ZIP_INPUT": "input[id='companyZip']",
+    "COMPANY_ZIP_EXT_INPUT": "input[id='companyZipExt']",
+    "COMPANY_CITY_INPUT": "input[id='companyCity']",
+    "WORKING_ZIP_INPUT": "input[id='workZip']",
+    "WORKING_ZIP_EXT_INPUT": "input[name='workZipExt']",
+    "WORKING_CITY_INPUT": "input[id='workCity']",
+    "HOME_PHONE_INPUT": "input[name='homePhone']",
+    "WORK_PHONE_INPUT": "input[name='workPhone']",
+    "FAX_PHONE_INPUT": "input[name='faxPhone']",
+    "INSURED_EMAIL_INPUT": "input[name='insuredEmail']",
+    "PREMIUM_FINANCE_NAME_ONE_INPUT": "input[id='lienName']",
+    "PREMIUM_FINANCE_NAME_TWO_INPUT": "input[id='lienName2']",
+    "ADDRESS_ONE_INPUT": "input[id='lienAddress']",
+    "ADDRESS_TWO_INPUT": "input[id='lienAddress2']",
+    "CITY_INPUT": "input[id='lienCity']",
+    "ZIP_INPUT": "input[id='lienZip']",
+    "ZIPEXT_INPUT": "input[id='lienZipExt']",
+    "CONTACT_PHONE_INPUT": "input[id='lienZipContactPhone']",
+    "CONTACT_FAX_INPUT": "input[id='lienZipContactFax']",
+    "QUOTED_DOWN_PAYMENT_INPUT": "input[id='QuotedDownPymt']"
+    },
+  "checkboxes": {
+    "MAILING_SAME_GARAGING_ADDRESS_CHECKBOX": "input[id='updateAddress']",
+    "COMPANY_SAME_GARAGING_ADDRESS_LEFT_CHECKBOX": "input[id='updateCompanyGaragingBox']",
+    "COMPANY_SAME_GARAGING_ADDRESS_RIGHT_CHECKBOX": "input[id='updateCompanyMailingBox']",
+    "ADDITIONAL_DRIVER_SURCHARGE_CHECKBOX": "input[id='discount64']",
+    "FED_FILING_SURCHARGE_CHECKBOX": "input[id='discount256']",
+    "CLAIMS_POLICY_FACTOR_CHECKBOX": "input[id='discount4194304']",
+    "UNLICENSED_CONTRACTOR_SURCHARGE_CHECKBOX": "input[id='discount8388608']",
+    "PIF_CHECKBOX": "input[id='discount11']",
+    "MULTI_CAR_CHECKBOX": "input[id='discount12']",
+    "COMMERCIAL_LIABILITY_DISCOUNT_CHECKBOX": "input[id='discount14']",
+    "BUSINESS_EXPERIENCE_DISCOUNT_CHECKBOX": "input[id='discount18']"
+  },
+  "special": {
+    "POLICY_HOLDER_INFORMATION_TAB": "//*[@id='tabs']/li[1]/a",
+    "PREMIUM_FINANCE_TAB": "//*[@id='tabs']/li[2]/a"
+  }
+}

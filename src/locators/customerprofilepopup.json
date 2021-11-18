@@ -1,0 +1,10 @@
+{
+    "url": { "URL": "/ips/servlet/FrontController" },
+    "buttons": {
+      "CLOSE_WINDOW_BUTTON": "input[value='Close Window']"
+    },
+    "dropdowns": {},
+    "inputs": {},
+    "radio_buttons": {},
+    "special": {}
+  }

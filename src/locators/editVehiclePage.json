@@ -1,0 +1,43 @@
+{
+    "url": { "URL": "/ips/servlet/FrontController" },
+    "title": { "TITLE": "Vehicle" },
+    "buttons": {
+        "LOAD_VEHICLE_BUTTON": "input[id='vehLoad']",
+        "RATE_BUTTON": "/descendant::input[@name='Rate'][1]",
+        "DAMAGE_VERIFIED_BUTTON": "/html/body/div[3]/div[3]/div/button[2]/span/",
+        "DAMAGE_NOTVERIFIED_BUTTON": "/html/body/div[3]/div[3]/div/button[1]/span"
+    },
+    "dropdowns": {
+        "USE_INDICATOR_DROPDOWN": "//*[@id='useIndicator']",
+        "USE_CLASS_DROPDOWN": "//*[@id='useClass;]",
+        "BI_DROPDOWN":"//*[@id='cboPOLBI']",
+        "PD_DROPDOWN":"//*[@id='cboPOLPD']",
+        "MED_DROPDOWN":"//*[@id='cboPOLMED']",
+        "PIP_DROPDOWN":"//*[@id='cboPOLPIP']",
+        "UMBI_DROPDOWN":"//*[@id='cboPOLUMBI']",
+        "UMPD_DROPDOWN":"//*[@id='cboPOLUMPD']",
+        "COM_DROPDOWN":"//*[@id='cboVEHCOM']",
+        "COL_DROPDOWN":"//*[@id='cboVEHCOL']",
+        "CCOM_DROPDOWN":"//*[@id='cboVEHCCOM']",
+        "CCOL_DROPDOWN":"//*[@id='cboVEHCCOL']",
+        "FTC_DROPDOWN":"//*[@id='cboVEHFTC']",
+        "REN_DROPDOWN":"//*[@id='cboVEHREN']",
+        "TOW_DROPDOWN":"//*[@id='cboVEHTOW']",
+        "HABI_DROPDOWN":"//*[@id='cboPOLHABI']",
+        "HAPD_DROPDOWN":"//*[@id='cboPOLHAPD']",
+        "NOBI_DROPDOWN":"//*[@id='cboPOLNOBI']",
+        "NOPD_DROPDOWN":"//*[@id='cboPOLNOPD']",
+        "TERRITORY_DROPDOWN":"//*[@id='territory']",
+        "RADIUS_DROPDOWN":"//*[@id='radius']"
+    },
+    "inputs": {
+        "VIN_INPUT": "input[id='vin']",
+        "STATED_VALUE_INPUT": "input[id='statedValue']",
+        "CURRENT_MILES_INPUT": "input[id='currentMiles']",
+        "GARAGING_ZIP_INPUT": "input[id='garagingZip']"
+    },
+    "radio_buttons": {},
+    "special": {
+        "VEHICLE_DAMAGE_POPUP": "/html/body/div[3]/div[1]"
+    }
+}

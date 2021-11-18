@@ -1,0 +1,12 @@
+{
+   "URL": { "URL": "/ips/servlet/FrontController" },
+   "title" : {"TITLE": "Vehicle/Drivers"},
+
+   "hrefs": {
+       "VIN_LINK": "/html/body/table/tbody/tr[2]/td/table/tbody/tr[2]/td/table/tbody/tr[7]/td[2]/a",
+       "POINTS_VIOLATIONS_LINK": "/html/body/table/tbody/tr[2]/td/table/tbody/tr[2]/td/table/tbody/tr[20]/td[1]/a",
+       "ADDITIONAL_INFO_LINK": "/html/body/table/tbody/tr[2]/td/table/tbody/tr[2]/td/table/tbody/tr[24]/td[2]/a",
+       "RA_USAGE_LINK": "/html/body/table/tbody/tr[2]/td/table/tbody/tr[2]/td/table/tbody/tr[28]/td[2]/table/tbody/tr/td[1]/a"
+   }
+
+}

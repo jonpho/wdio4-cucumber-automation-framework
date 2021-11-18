@@ -1,0 +1,32 @@
+{
+  "url": { "URL": "/ips/servlet/FrontController" },
+  "buttons": {
+    "PRIMARY_BUTTON": "a[href='javascript:redirect(\"primary\")']",
+    "INSTALLMENT_BUTTON": "a[href='javascript:redirect(\"installment\")']",
+    "ACTIVITY_BUTTON": "a[href='javascript:redirect(\"activity\")']",
+    "TRANSACTIONS_BUTTON": "a[href='javascript:redirect(\"transactions\")']",
+    "VEHICLE_DRIVERS_BUTTON": "a[href='javascript:redirect(\"vehicle\")']",
+    "DOCUMENTS_BUTTON": "a[href='javascript:redirect(\"documentsMeta\")']",
+    "ID_CARD_BUTTON": "a[href='javascript:redirect(\"internalidcard\")']",
+    "LETTER_BUTTON": "a[href='javascript:redirect(\"letter\")']",
+    "CERTIFICATE_BUTTON": "a[href='javascript:redirect(\"certificate\")']",
+    "REQUEST_BUTTON": "a[href='javascript:redirect(\"request\")']",
+    "DIARY_BUTTON": "a[href='javascript:redirect(\"diary\")']",
+    "CHANGE_REQUEST_BUTTON": "/html/body/table/tbody/tr[2]/td/table[1]/tbody/tr[1]/td[2]/table/tbody/tr[1]/td/table/tbody/tr[1]/td[36]",
+    "NOTES_BUTTON": "a[href='javascript:redirect(\"notes\")']",
+    "MVR_BUTTON": "a[href='javascript:redirect(\"mvrdrivers\")']",
+    "CLUE_BUTTON": "a[href='javascript:redirect(\"clue\")']",
+    "POP_BUTTON": "a[href='javascript:redirect(\"currentCarrier\")']",
+    "ADD_BUTTON": "a[href='javascript:redirect(\"adpDriverDiscovery\")']",
+    "CLAIMS_BUTTON": "a[href='javascript:redirect(\"infinity_claims\")']",
+    "RENEWAL_BUTTON": "/html/body/table/tbody/tr[2]/td/table[1]/tbody/tr[1]/td[2]/table/tbody/tr[1]/td/table/tbody/tr[4]/td[18]",
+    "LIEN_ADDL_INS_BUTTON": "/html/body/table/tbody/tr[2]/td/table[1]/tbody/tr[1]/td[2]/table/tbody/tr[1]/td/table/tbody/tr[4]/td[21]",
+    "SUSPENSE_BUTTON": "a[href='javascript:redirect(\"suspense\")']",
+    "COMPANY_BUTTON": "a[href='javascript:redirect(\"company\")']",
+    "ACCOUNTING_BUTTON": "a[href='javascript:redirect(\"accounting\")']"      
+  },
+  "dropdowns": {},
+  "inputs": {},
+  "radio_buttons": {},
+  "special": {}
+}

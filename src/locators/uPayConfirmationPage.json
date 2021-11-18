@@ -1,0 +1,19 @@
+{
+    "url": { "URL": "tupay.ipacc.com/make_payment/sucess" },
+    "title" : {"TITLE": "Infinity Payments - Payment Receipt"},
+    "buttons": {
+      "CLOSE_BUTTON": "button[id='WindowClose']",
+      "MAKE_ADDITIONAL_PAYMENT_BUTTON": "a[href^='/make_payment']",
+      "EMAIL_A_COPY_BUTTON": "button[id='sendEmail']",
+      "CLOSE_EMAIL_POPUP_BUTTON": "a[class='close-reveal-modal button tiny grey']"
+    },
+    "dropdowns": {},
+    "inputs": {
+      "EMAIL_INPUT": "input[id='emailAddress']",
+      "REENTER_EMAIL_INPUT": "input[id='userEmail']"
+    },
+    "radio_buttons": {},
+    "special": {
+        "EMAIL_SUCCESSFULLY_SENT_POPUP": "div[id='emailSentModal']"
+    }
+  }

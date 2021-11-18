@@ -1,0 +1,12 @@
+{
+  "url": {"URL": "/ips/servlet/FrontController"},
+  "hrefs": {
+    "INSTALLMENTS_LINK": "a [href='javascript:redirectScreen'('installment')]"
+  },
+  "buttons": {
+    "PRINT_BUTTON": "input[value='Print']",
+    "VIEW_POLICY_BUTTON": "input[value='View policy']",
+    "NOTES_BUTTON": "input[value='Notes']",
+    "IPS_HOME_BUTTON": "input[value='IPS Home']"
+  }
+}

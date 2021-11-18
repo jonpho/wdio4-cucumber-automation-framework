@@ -1,0 +1,13 @@
+{
+"url": { "URL": "/ips/servlet/FrontController?uniqueId=FC013562080732FB6C47DAC4FCCF31D6&uniqueCounter=1539749815669" },        
+"title" : {"TITLE": "Vehicle List"},
+"hrefs": {},   
+"buttons": {
+    "BASE_VEHICLE_BUTTON": "/descendant::*[@id='"
+    },
+"dropdowns": {},
+"inputs": {},
+"radio_buttons": {},
+"checkboxes": {},
+"special": {}
+}

@@ -1,0 +1,14 @@
+{
+  "url": { "URL": "tupay.ipacc.com/make_payment/loss_question" },
+  "title" : {"TITLE": "Infinity Payments - Loss Question"},
+  "buttons": {
+    "YES_BUTTON": "button[value='Y']",
+    "NO_BUTTON": "button[value='N']"
+  },
+  "dropdowns": {},
+  "inputs": {},
+  "radio_buttons": {},
+  "special": {
+    "CONFIRMATION_STATEMENT": "/html/body/div[5]/div/div[3]/div/div/div/div[1]/div/p[2]"
+  }
+}

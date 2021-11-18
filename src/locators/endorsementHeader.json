@@ -1,0 +1,16 @@
+{
+    "url": { "URL": "/ips/servlet/FrontController" },
+    "buttons": {
+        "PRIMARY_BUTTON": "//a[contains(text(),'Primary')]",
+        "VEHICLE_BUTTON": "//a[contains(text(),'Vehicles')]",
+        "DRIVERS_BUTTON": "//a[contains(text(),'Drivers')]",
+        "AUTO_PAY_BUTTON": "//a[contains(text(),'Auto Pay')]",
+        "COMPANY_BUTTON": "//a[contains(text(),'Company')]",
+        "MVR_BUTTON": "//a[contains(text(),'MVR')]",
+        "NOTES_BUTTON": "//a[contains(text(),'Notes')]"
+    },
+    "dropdowns": {},
+    "inputs": {},
+    "radio_buttons": {},
+    "checkboxes": {}
+}
